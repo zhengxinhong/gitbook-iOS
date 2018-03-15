@@ -1,5 +1,11 @@
 
 ## Mac OS X和iOS API
+
+| 平台| | | | | |
+| -- | -- | -- | -- |
+| Mac OS X | Cocoa | Carbon | Toolbox | POSIX | Java | 
+| iOS| Cocoa | | | | |
+
 > Carbon和Cocoa，Toolbox，POSIX，JAVA并列成为Mac OS X五个主要的API。
 
 与Cocoa相较之下，Carbon是非物件导向（Procedural）编程语言API，
