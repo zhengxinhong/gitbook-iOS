@@ -1,4 +1,7 @@
 # gitbook-iOS
+
+截屏：command+shift+4
+
 iOS
 
 * 单行注释：⌘/
