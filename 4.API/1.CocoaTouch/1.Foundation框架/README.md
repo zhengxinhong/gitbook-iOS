@@ -1,4 +1,4 @@
-## Foundation框架
+-## Foundation框架
 
 https://www.cnblogs.com/zhangmangyuan/archive/2013/03/28/iOS.html
 
@@ -19,3 +19,17 @@ iOS的系统架构分为四个层次：核心操作系统层（Core OS layer）�
 ![](/assets/21_164303_f666f092a85420a.png)
 
 Foundation框架是在核心服务层（Core Services）
+
+Foundation所以的类，图中灰色的是iOS不支持的，灰色部分是OS X系统的。
+![](/assets/4.API/foundation框架之NSObject.jpg)
+
+![](/assets/1350526897_3494.jpg)
+
+![](/assets/1350526913_6659.jpg)
+
+
+
+
+
+
+
