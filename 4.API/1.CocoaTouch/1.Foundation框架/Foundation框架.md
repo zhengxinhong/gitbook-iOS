@@ -1,23 +1,6 @@
+## Foundation框架
 
-## Mac OS X和iOS API
-参考[https://www.cnblogs.com/zhangmangyuan/archive/2013/03/28/iOS.html](https://www.cnblogs.com/zhangmangyuan/archive/2013/03/28/iOS.html)
-
-
-| 平台| | | | | |
-| -- | -- | -- | -- |
-| Mac OS X | Cocoa | Carbon | Toolbox | POSIX | Java | 
-| iOS| Cocoa | | | | |
-
-> Carbon和Cocoa，Toolbox，POSIX，JAVA并列成为Mac OS X五个主要的API。
-
-与Cocoa相较之下，Carbon是非物件导向（Procedural）编程语言API，
-而Cocoa是面向对象（Object Oriented）的编程语言API。
-Carbon是比Cocoa更为低层次的API，比较类似于微软视窗操作系统的Win32 API。
-调用Carbon的程序可以使用包括C，C++在内的多种编程语言。
-而Cocoa只能支持Obejctive-C和Java。
-在从Power PC平台向Intel平台转移的过程中。
-使用Carbon的程序比使用Cocoa的程序需要更多的修改。
-
+https://www.cnblogs.com/zhangmangyuan/archive/2013/03/28/iOS.html
 
 Cocoa 本身由 Objective-C 语言写成，因此 Objective-C 是开发 Cocoa 应用的首选语言。虽然也提供 Java 到 Cocoa 的绑定，但是在开发者中并未得到广泛采用。而且，由于使用桥接机制，Java 的绑定并不能全面利用 Cocoa 的所有功能。2005年，苹果公司宣布 Java 的 Cocoa 绑定在 Mac OS X 10.4 和之后版本中属被废弃的技术。换句话说，Cocoa API 中可能会逐渐出现不支援 Java 的功能。
 
