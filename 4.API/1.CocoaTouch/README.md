@@ -1,11 +1,34 @@
 
 ## Cocoa
 
-Cocoa不是一种编程语言（它可以运行多种编程语言），它也不是一个开发工具（通过命令行我们仍然可以开发Cocoa程序），它是创建Mac OS X和IOS程序的原生面向对象API，为这两者应用提供了编程环境。
-我们通常称为“Cocoa框架”，事实上Cocoa本身是一个框架的集合，它包含了众多子框架，其中最重要的要数“Foundation”和“UIKit”。前者是框架的基础，和界面无关，其中包含了大量常用的API；后者是基础的UI类库，以后我们在IOS开发中会经常用到。这两个框架在系统中的位置如下图
+https://www.cnblogs.com/zhangmangyuan/archive/2013/03/28/iOS.html
 
+Cocoa 本身由 Objective-C 语言写成，因此 Objective-C 是开发 Cocoa 应用的首选语言。虽然也提供 Java 到 Cocoa 的绑定，但是在开发者中并未得到广泛采用。而且，由于使用桥接机制，Java 的绑定并不能全面利用 Cocoa 的所有功能。2005年，苹果公司宣布 Java 的 Cocoa 绑定在 Mac OS X 10.4 和之后版本中属被废弃的技术。换句话说，Cocoa API 中可能会逐渐出现不支援 Java 的功能。
 
+![](/assets/28144832-1def7246ec6c4b57981f0cfc16e3bea4.jpg)
+
+cocoa touch是cocoa在iOS上的实现，也是iOS唯一的框架。
+
+>iOS开发是基于cocoa框架的。
+cocoa框架类图（iOS操作系统架构层次）
 ![](/assets/20151205105717540.jpg)
 
->UIKit是UI类库。
-Fundation是框架基础。
+其实所有的Mac OS X和IOS程序都是由大量的对象构成，而这些对象的根对象都是NSObject，NSObject就处在Foundation框架之中。
+
+iOS的系统架构分为四个层次：核心操作系统层（Core OS layer）、核心服务层（Core Services layer）、媒体层（Media layer）和可触摸层（Cocoa Touch layer）。
+
+![](/assets/21_164303_f666f092a85420a.png)
+
+Foundation框架是在核心服务层（Core Services）
+
+### Foundation框架
+Foundation所有的类，图中灰色的是iOS不支持的，灰色部分是OS X系统的。
+
+![](/assets/API/foundation框架NSObject.jpg)
+![](/assets/API/foundation框架NSObject1.jpg)
+![](/assets/API/foundation框架NSObject2.jpg)
+
+### UIKit框架
+![](/assets/API/foundation框架NSObject3.jpg)
+
+
