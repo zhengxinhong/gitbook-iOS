@@ -20,11 +20,19 @@ iOS的系统架构分为四个层次：核心操作系统层（Core OS layer）�
 
 Foundation框架是在核心服务层（Core Services）
 
-Foundation所以的类，图中灰色的是iOS不支持的，灰色部分是OS X系统的。
+### Foundation框架
+Foundation所有的类，图中灰色的是iOS不支持的，灰色部分是OS X系统的。
 
 ![](/assets/API/foundation框架NSObject.jpg)
 ![](/assets/API/foundation框架NSObject1.jpg)
 ![](/assets/API/foundation框架NSObject2.jpg)
+
+### UIKit框架
+![](/assets/API/foundation框架NSObject3.jpg)
+
+
+
+
 
 
 
