@@ -19,3 +19,7 @@ iOS11.1问题集
 
 ### 博客园后台设置
 https://www.cnblogs.com/asxinyu/p/Bolg_Category_BasicSetting_1.html
+
+
+
+geometry [dʒiˈɑ:mətri] 几何学; 几何形状; 几何图形; 几何学著作
