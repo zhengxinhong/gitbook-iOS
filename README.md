@@ -22,3 +22,8 @@ https://www.cnblogs.com/asxinyu/p/Bolg_Category_BasicSetting_1.html
 
 geometry [dʒiˈɑ:mətri] 几何学; 几何形状; 几何图形; 几何学著作
 interval [ˈɪntərvl] 间隔，区间;
+
+* textual 	英 [ˈtekstʃuəl]
+	美 [ˈtɛkstʃuəl]
+adj. 	正文的，版本的，原文的
+
