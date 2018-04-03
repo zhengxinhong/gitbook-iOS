@@ -8,6 +8,7 @@
 | NSData| 数据 |
 | NSDate| 日期  |
 | NSLocale| 本地化 |
+| NSNull| 空对象 |
 | NSTimeZone | 时区 |
 | NSValue| 值 |
 | NSValueTransformer| 值变换 | 
