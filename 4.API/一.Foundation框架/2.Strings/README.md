@@ -1,0 +1,1 @@
+![](/assets/API/FoundationAssets/StringsAssets/Strings.jpg)
