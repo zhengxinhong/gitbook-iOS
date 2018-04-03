@@ -4,4 +4,4 @@
 |--|--|
 | NSNotiffication| 通知 |
 | NSNotifficationCenter | 通知中心 |
-| NSnoti| |
+| NSNoti| |
