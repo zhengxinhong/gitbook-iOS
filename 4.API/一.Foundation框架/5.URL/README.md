@@ -14,8 +14,7 @@
 | NSURLCredentialStorage| 证书存储 | |
 | NSURLDownload| 下载 | |
 | NSURLProtectionSpace| | |
-| NSURLProtocol| | |
-| | | |
-| | | |
-| | | |
-| | | |
+| NSURLProtocol| 协议| |
+| NSURLRequest| 请求| |
+| NSURLResponse| 应答 | |
+
