@@ -1,4 +1,5 @@
 
+#### UIView实现颜色渐变
 ```objc
 
  CAGradientLayer *layer = [CAGradientLayer layer];
